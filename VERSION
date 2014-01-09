@@ -1,0 +1,8 @@
+NuaoX
+0.0.0-build pre-alpha
+
+libraries/inclusions
+- node-webkit (0.8.4, 2013-12-30 or higher)
+- jQuery (2.0.3 - 2013-07-03)
+- pixi.js (1.4.1 - 2014-01-07)
+- tween.js (r12, 2013-11-03)
