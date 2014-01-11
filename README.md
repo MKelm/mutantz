@@ -12,3 +12,4 @@ Thanks to the following GitHub.com projects:
 - [jquery](https://github.com/jquery/jquery) (Library for DOM manipulations and data handling)
 - [pixi.js](https://github.com/GoodBoyDigital/pixi.js) (Library for 2D WebGL/Canvas graphics)
 - [tween.js](https://github.com/sole/tween.js) (Library for tween animations)
+- [pathfinding.js](https://github.com/qiao/PathFinding.js) (Library for pathfinding)
